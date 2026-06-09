@@ -120,3 +120,9 @@ https://engineering.case.edu/bearingdatacenter
 Askhat Bigeldiyev
 
 M.S.E. Electrical Engineering, University of Pennsylvania (May 2024)
+
+___
+
+## Future Applications
+
+The analytical framework demonstrated in this project can be adapted to broader condition-monitoring and predictive-maintenance applications involving electromechanical systems, transportation infrastructure, industrial assets, and rail-related equipment. The project illustrates how sensing technologies, signal processing, and machine-learning-assisted analytics can support maintenance decision-making through early identification of abnormal operating conditions.
