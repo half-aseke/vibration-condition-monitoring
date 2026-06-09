@@ -1,21 +1,16 @@
-# vibration-condition-monitoring
-Vibration-based condition monitoring and anomaly detection using CWRU bearing data, signal processing, FFT, RMS, and Isolation Forest.
-
 # Vibration-Based Condition Monitoring and Anomaly Detection
 
 ## Overview
 
 This project presents a vibration-based condition monitoring framework for identifying abnormal operating conditions in rotating machinery using signal processing and machine-learning-assisted anomaly detection techniques.
 
-The analysis utilizes the Case Western Reserve University (CWRU) Bearing Data Center dataset and evaluates vibration behavior under normal, ball fault, and inner race fault conditions.
-
-The project demonstrates methodologies commonly used in predictive maintenance and condition-monitoring applications.
+The analysis utilizes data from the Case Western Reserve University (CWRU) Bearing Data Center and evaluates vibration behavior under normal, ball fault, and inner race fault conditions. The project demonstrates methodologies commonly used in predictive maintenance and condition-monitoring applications.
 
 ---
 
 ## Objectives
 
-The primary objectives of this project were:
+The primary objectives of this project were to:
 
 - Analyze vibration measurements from rotating machinery
 - Extract condition indicators from sensor data
@@ -71,3 +66,40 @@ data/
 
 figures/
     Generated visualizations
+```
+
+---
+
+## Technologies
+
+- Python
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- Scikit-learn
+
+---
+
+## Predictive Maintenance Relevance
+
+This project demonstrates how vibration measurements can be transformed into maintenance-relevant information through signal processing, statistical analysis, and machine-learning-assisted anomaly detection.
+
+The methodologies developed in this project are relevant to predictive maintenance applications involving electromechanical systems, industrial equipment, transportation infrastructure, electric motors, actuators, and other condition-monitoring environments.
+
+---
+
+## Dataset
+
+This project utilizes data from the Case Western Reserve University (CWRU) Bearing Data Center.
+
+Dataset source:
+https://engineering.case.edu/bearingdatacenter
+
+---
+
+## Author
+
+Askhat Bigeldiyev
+
+M.S.E. Electrical Engineering, University of Pennsylvania (May 2024)
