@@ -71,32 +71,3 @@ data/
 
 figures/
     Generated visualizations
-
-
-⸻
-
-## Technologies
-	•	Python
-	•	NumPy
-	•	Pandas
-	•	SciPy
-	•	Matplotlib
-	•	Scikit-learn
-	•	Isolation Forest
-
-⸻
-
-## Predictive Maintenance Relevance
-
-This project demonstrates how vibration measurements can be transformed into maintenance-relevant information through signal processing and anomaly detection techniques.
-
-The methodologies developed in this project are relevant to predictive maintenance applications involving electromechanical systems, industrial equipment, transportation infrastructure, motors, actuators, and other condition-monitoring environments.
-
-⸻
-
-## Author
-
-Askhat Bigeldiyev
-
-M.S.E. Electrical Engineering
-University of Pennsylvania (2024)
