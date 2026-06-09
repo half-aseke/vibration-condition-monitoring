@@ -49,7 +49,24 @@ The results demonstrated increasing vibration energy and variability as fault se
 
 The Isolation Forest model also identified substantially more anomalous segments in fault conditions than in the healthy baseline condition.
 
----
+## Sample Results
+
+### RMS Comparison
+
+![RMS Comparison](figures/rms_comparison.png.PNG)
+
+### Frequency Spectrum Analysis (FFT)
+
+![FFT Comparison](figures/fft_comparison.png.PNG)
+
+### Segmented RMS Trend
+
+![RMS Trend](figures/rms_trend.png.PNG)
+
+### Isolation Forest Anomaly Detection
+
+![Isolation Forest Results](figures/isolation_forest_results.png.PNG)
+___
 
 ## Repository Structure
 
